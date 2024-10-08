@@ -1,0 +1,6 @@
+[submodule "vue2"]
+	path = vue2
+	url = https://github.com/veasion/aippt-vue2
+[submodule "vue3"]
+	path = vue3
+	url = https://github.com/veasion/aippt-vue
